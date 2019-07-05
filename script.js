@@ -32,7 +32,7 @@ function tellStory() {
   story = `<p>${name} trusted this ${animal} because of their ${adjective} eyes and besides,
   everyone knows to always trust a blood covered ${animal} !. ${name} ignored the blood on the ${animal} and got stabbed in the back. To bad ${name} 's friend '${friend} was the ${animal} 's next target.</p>`;
 
-  storyDiv.classList.remove("hidden"
+  storyDiv.classList.remove("hidden");
   storyDiv.innerHTML = story;
 
   wordsDiv.classList.add("hidden");

@@ -25,7 +25,7 @@ function tellStory() {
   */
   time = checkNumber(number, time);
 
-  var story = `<p>Once upon a time, ${name} was walking to ${place} ,but ${name} died because of your stinky fart. ${name} was only one of the billions of victims who were killed by your fart Then he was saved by your mom. ${name} suddenly turned really fat. He started walking and it felt like ${name}
+  var story = `<p>Once upon a time, ${name} was walking to ${place} ,but ${name} died because of your stinky fart. ${name} was only one of the billions of victims who were killed by your fart. Then ${name} was saved by your mom. ${name} suddenly turned really fat. ${name} started walking and it felt like ${name}
   had been walking forever but really it was ${number} ${time}. Suddenly a talking
   ${animal} appeared with a bloody knife and asked ${name} where they were going. </p>`;
 
